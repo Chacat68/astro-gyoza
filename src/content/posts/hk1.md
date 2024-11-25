@@ -19,7 +19,7 @@ tags: [港乐,粤语,作曲人,音乐,CY Kong,Jean Chien]
 
 《世界真细小》原本是一首粤语儿歌，但被用来描述两个人分离后的重逢，当两个人偶然相遇时，情不自禁地产生内心变化，两个人的故事在心中重演。
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130231745.jpg)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130231745.jpg)
 
 这首歌是 C.Y.KONG 和 Jean Chien 一起创作的，描写了他们两人的婚姻现状，这对曾经的爱侣如今已经分开了。
 
@@ -38,7 +38,7 @@ tags: [港乐,粤语,作曲人,音乐,CY Kong,Jean Chien]
 
 CYKong和Jean Chien于01年共谐连理。当年CYKong更凭歌寄意，亲自作曲送给太太，并由林夕操刀填词《姊妹》。杨千嬅演唱了这首歌，表达了她对好姊妹Jean Chien走入教堂的喜悦和感触。
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130232444.jpg)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130232444.jpg)
 
 > 我选择了杨千嬅小姐在《万紫千红演唱会》现场版中哭得稀里哗啦的名场面。
 
@@ -59,7 +59,7 @@ CYKong和Jean Chien于01年共谐连理。当年CYKong更凭歌寄意，亲自�
 
 两人于07年离婚，而Jean Chien作曲、CYKong有份编曲的《纸婚》，则印证着这段感情的流逝。如今，两人再次联手打造《世界真细小》，感觉确实有点奇妙。
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130232312.jpg)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130232312.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/28jn_Bdtyvo?si=eZt4BmyOD38QGE29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
