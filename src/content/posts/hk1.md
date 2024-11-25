@@ -1,6 +1,6 @@
 ---
-title: "词曲人：C.Y.KONG&Jean"
-date: 2020/02/17
+title: 词曲人：C.Y.KONG&Jean
+date: 2020-02-17
 summary: 介绍了香港音乐人C.Y.KONG和Jean Chien的作品和影响。
 category: 随笔
 tags: [港乐,粤语,作曲人,音乐,CY Kong,Jean Chien]
