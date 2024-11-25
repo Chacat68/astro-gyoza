@@ -6,11 +6,11 @@ category: 设计
 tags: [商业, 设计, 远程工作, 创业, 管理]
 ---
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130233051.jpeg)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130233051.jpeg)
 
 在众多设计准则中，其中特别受广泛推崇的是迪特·拉姆斯（Dieter Rams）所定义的“好设计的10个原则（Ten principles for good design）”， 也即德国布劳恩公司优良设计十项原则。
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/ZvlNUr.png)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/ZvlNUr.png)
 
 1.Good design is innovative
 
@@ -28,7 +28,7 @@ The aesthetic quality of a product – and the fascination it inspires – is an
 
 产品的美感是实用性不可或缺的一部分，因为每天使用的产品都无时无刻的影响着人类和我们的生活。但是只有精湛的东西才可能是美的。
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/SkLFKY.png)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/SkLFKY.png)
 
 3.Good design makes a product understandable
 
@@ -46,7 +46,7 @@ Products that satisfy this criterion are tools. They are neither decorative obje
 
 产品要像工具一样能够达成某种目的。 它们既不是装饰物也不是艺术品。因此它们应该是中庸的，带有约束的，这样会给使用者的个性表现上留有一定空间。
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130233051.jpeg)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130233051.jpeg)
 
 5.Good design is honest
 
@@ -64,7 +64,7 @@ A product is bought in order to be used. It must serve a defined purpose – in 
 
 产品买来是要使用的。 至少要满足某些基本标准,，不但是功能，也要体现在用户的购买心里和产品的审美上。 优秀的设计强调实用性的同时也不能忽略其它方面，不然产品就会大打折扣。
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/ZvlNUr.png)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/ZvlNUr.png)
 
 7.Good design is long-lasting
 
@@ -82,7 +82,7 @@ Thoroughness and accuracy of design are synonymous with the product and its func
 
 任何细节都不能敷衍了事或者怀有侥幸心理。设计过程中的悉心和精确是对消费者的一种尊敬。
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/SkLFKY.png)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/SkLFKY.png)
 
 9.Good design is environmentally friendly
 
