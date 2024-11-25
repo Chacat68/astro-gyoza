@@ -1,6 +1,6 @@
 ---
 title: 《IF 如果》
-date: 2019-04-17
+date: 2019-04-17T00:00:00Z
 summary: 分享了Rudyard Kipling的诗歌《If》的翻译。
 category: 随笔
 tags: [生活,诗句,英文,Rudyard Kipling]
