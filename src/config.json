@@ -98,10 +98,10 @@
     "startTime": "2019-07-29"
   },
   "waline": {
-    "serverURL": "https://waline.lxchapu.com"
+    "serverURL": ""
   },
   "sponsor": {
-    "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
+    "wechat": ""
   },
   "analytics": {
     "enable": false,
