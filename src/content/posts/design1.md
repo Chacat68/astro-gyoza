@@ -6,46 +6,101 @@ category: 设计
 tags: [商业, 设计, 远程工作, 创业, 管理]
 ---
 
-> 《重来》是37signals的创始人制作的书籍，他在书中向我们阐述了另外一种生意运作模式，更简单，独立，并保持高营收的商业模型。这本书是我在读完《重来》之后，对这本书的一些感悟和思考。
+[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130233051.jpeg)
 
-《重来》一共有三部：
+在众多设计准则中，其中特别受广泛推崇的是迪特·拉姆斯（Dieter Rams）所定义的“好设计的10个原则（Ten principles for good design）”， 也即德国布劳恩公司优良设计十项原则。
 
-- 第一部和大家阐述独立运作的商业模式，保持小团队，创新的重要性。
-- 第二部聊起了远程工作的探索，特别是在今年疫情期间，让我们去更好适应远程工作的模式。
-- 第三部谈起了现在疯狂加班的工作文化，开会，公司运作遭遇到的情况
+[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/ZvlNUr.png)
 
-### 《重来》
+1.Good design is innovative
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201011184505.jpg)
+It does not copy existing product forms, nor does it produce any kind of novelty for the sake of it. The essence of innovation must be clearly seen in all functions of a product. The possibilities in this respect are by no means exhausted. Technological development keeps offering new chances for innovative solutions.
 
-大多数的企业管理的书籍都会告诉你：制定商业计划、分析竞争形势、寻找投资人等等。如果你要找的是那样的书，那么把这本书放回书架吧。
+优秀的设计应该是创新的
 
-这本书呈现的是一种更好、更简单的经商成功之道。读完这本书，你就会明白为什么计划实际上百害而无一益，为什么你不需要外界投资人，为什么将竞争视而不见反倒会发展得更好。事实是你所需要的比你想象的少得多。你不必成为工作狂，你不必大量招兵买马，你不必把时间浪费在案头工作和会议上，你甚至不必拥有一间办公室。所有这些都仅仅是借口！
+创新的可能性是永远存在并且不会消耗殆尽的。科技日新月异的发展不断为创新设计提供了崭新的机会。 同时创新设计总是伴随着科技的进步而向前发展，永远不会完结。
 
-用直截了当的语言和崇尚简约的方式，《重来》是每一个梦想着拥有自己的事业的人的完美指南。不管是作为中坚力量的企业家、小企业主，还是深陷令人不快的工作中的职场中人、被炒鱿鱼的受害者，抑或是想要“脱贫”的艺术家，都能在这一页页中找到弥足珍贵的指引。
+2.Good design is aesthetic
 
-[重来](https://book.douban.com/subject/5320866/)
+The aesthetic quality of a product – and the fascination it inspires – is an integral part of the its utility. Without doubt, it is uncomfortable and tiring to have to put up with products that are confusing, that get on your nerves, that you are unable to relate to. However, it has always been a hard task to argue about aesthetic quality, for two reasons.
 
-### 《重来2》
+优秀的设计是美的
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201011184525.jpg)
+产品的美感是实用性不可或缺的一部分，因为每天使用的产品都无时无刻的影响着人类和我们的生活。但是只有精湛的东西才可能是美的。
 
-“不再需要办公室”，这不仅仅是未来才有的事——它已经发生了。现在，轮到你迈开脚步，跟上时代的步伐了。
+[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/SkLFKY.png)
 
-上百万的员工和成千上万的企业已经发现了远程工作的乐趣和好处。然而，远程工作方式还没有成为常见的选择。事实上，远程工作的技术手段都已齐备。还没有升级换代的，是人们的思想。
+3.Good design makes a product understandable
 
-这本书的目的就是帮你把想法升级换代。作者会向你展示远程工作的诸多好处：可以找到最优秀的人才，从摧残灵魂的通勤路上解脱出来……还会对坊间流传的托词和借口一一进行分析，比如，创新只能发生在面对面谈话的时候，远程之后公司文化会慢慢消亡等等。在书中，你还会找到充分发挥远程工作方式优势的工具和方法，也会看到有哪些不利因素可能会影响到你，并提前做好应对准备。
+It clarifies the structure of the product. Better still, it can make the product talk. At best, it is self-explanatory and saves you the long, tedious perusal of the operating manual.
 
-书中呈现的全是第一手的经验。作者创立的软件公司37signals（现更名为Basecamp）团队成员居住在世界各地，却成为全世界效率最高的软件公司之一，是通过远程方式协同工作的典范。
+优秀的设计使产品更容易被读懂
 
-远程工作犹如打开了一扇通往新世界的大门。这个美好的新世界超越了工业时代对办公室的笃信。在这个新世界里，作者摒弃了一个覆满尘土的旧观念:“远程工作（外包）是用最低成本来提升业绩的好办法”，继而提出了一个全新的观念：远程工作既能提升工作质量，又能提高员工满意度，并能让所有人不必等到退休后才能享受生活的美好。
-[重来2](https://book.douban.com/subject/25861795/)
+优秀的设计让产品的结构清晰明了。更强大的是它能让产品自己说话。最好是一切能够不解自明。
 
-### 《重来3》
+4.Good design is unobtrusive
 
-[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201011193834.jpg)
+Products that satisfy this criterion are tools. They are neither decorative objects nor works of art. Their design should therefore be both neutral and restrained leaving room for the user’s self-expression.
 
-在叫嚣着“颠覆世界”“商场如战场”的这个时代，好像人人都在想着改变世界—这为他们每天晚上9点开会、周末加班赶工和让整个公司一起加班找了个好理由。
+优秀的设计是不唐突的
 
-作为一家长期赢利的科技公司的创始人，两位作者明确反对这些让人每天感到混乱、焦虑，且让人疲惫不堪的工作方式。通过展示Basecamp公司在公司愿景、工作时间、公司文化、工作流程、业务管理等方面目前所做的事，他们向读者展示了另一种新的可能—冷静的公司文化。而且，《重来3：跳出疯狂的忙碌》旨在让你理解，无论是什么行业、什么规模的公司，都能够达到同样的境界。
-[重来3](https://book.douban.com/subject/35135787/)
+产品要像工具一样能够达成某种目的。 它们既不是装饰物也不是艺术品。因此它们应该是中庸的，带有约束的，这样会给使用者的个性表现上留有一定空间。
+
+[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130233051.jpeg)
+
+5.Good design is honest
+
+An honestly-designed product must not claim features it does not have – being more innovative, more efficient, of higher value. It must not influence or manipulate buyers and users.
+
+优秀的设计是诚实的
+
+不要夸张产品本身的创意，功能的强大和其价值。也不要试图用实现不了的承诺去欺骗消费者。
+
+6.Good design makes a product useful
+
+A product is bought in order to be used. It must serve a defined purpose – in both primary and additional functions. The most important task of design is to optimise the utility of a product.
+
+优秀的设计让产品更加实用
+
+产品买来是要使用的。 至少要满足某些基本标准,，不但是功能，也要体现在用户的购买心里和产品的审美上。 优秀的设计强调实用性的同时也不能忽略其它方面，不然产品就会大打折扣。
+
+[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/ZvlNUr.png)
+
+7.Good design is long-lasting
+
+It is nothing trendy that might be out-of-date tomorrow. This is one of the major differences between well-designed products and trivial objects for a waste-producing society. Waste must no longer be tolerated.
+
+优秀的设计经得起岁月的考验
+
+它使产品避免成为短暂时尚反而看上去永远都不会过时。和时尚设计不同的是， 它会被人们接受并使用很多年甚至是在当今被一次性商品充斥的社会。
+
+8.Good design is thorough down to the last detail
+
+Thoroughness and accuracy of design are synonymous with the product and its functions, as seen through the eyes of the user.
+
+优秀的设计是考虑周到并且不放过每个细节的
+
+任何细节都不能敷衍了事或者怀有侥幸心理。设计过程中的悉心和精确是对消费者的一种尊敬。
+
+[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/SkLFKY.png)
+
+9.Good design is environmentally friendly
+
+Design must contribute towards a stable environment and a sensible use of raw materials. This means considering not only actual pollution, but also the visual pollution and destruction of our environment.
+
+优秀的设计是关怀环境的
+
+设计能够对保护环境起到极大的贡献。让产品在整个生命周期内减少对资源的浪费，降低对自然的破坏并且不要产生视觉污染。
+
+10.Good design is as little design as possible
+
+Good Design is as little design as possible
+Back to purity, back to simplicity
+
+优秀的设计是简洁的
+
+简洁，但是要更好–因为它浓缩了产品所必须的具备因素，剔除了不必要的东西。“大道至简，平淡为归”。
+
+> 转载：知乎
+
+💡 感谢您的观看！欢迎分享文章，或是来信与我交流。
