@@ -1,30 +1,69 @@
 ---
-title: 自述
-description: 这是一份站长的自述报告，请查收。
+title: 关于
+description: 关于我和博客
 comments: false
 ---
 
-## 关于 Gyoza
+### 关于我
 
-Gyoza 是一个使用 Astro 和 React 开发的博客主题。Gyoza 借鉴了 [Shiro](https://github.com/innei/Shiro) 和一些网站的设计。
+![31231314](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/31231314.png)
 
-Gyoza 的核心理念是简洁，快速，可爱。
+Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内容爱好者，EVA粉丝，日常在阅读、创作、跑步。
 
-- 在 [Markdown 示例](/posts/markdown) 中展示了 Markdown 的渲染样式
-- 可以前往 [Gyoza 使用指南](/posts/guide) 了解 Gyoza 的使用方法
+- 博客会记录 [随笔](https://www.chawfoo.com/category/%E9%9A%8F%E7%AC%94)、[设计](https://www.chawfoo.com/category/%E8%AE%BE%E8%AE%A1)、[思考](https://www.chawfoo.com/category/%E6%80%9D%E8%80%83)、[它山之石](https://www.chawfoo.com/category/%E5%AE%83%E5%B1%B1%E4%B9%8B%E7%9F%B3)
+- 我喜欢建筑，把它们做了一个整理：[**建筑指南**](https://www.chawfoo.com/art)
+- 喜欢的内容整理到：[**Look**](https://www.chawfoo.com/look)
+- 好东西分享：[**Goods**](https://www.chawfoo.com/happy)
+- 最后，把这些年做过的一些事情记录下来，汇总成：[**做事经历**](https://www.chawfoo.com/workart)
 
-Gyoza 是开源的，如果你对这个项目感兴趣，欢迎前往 Gyoza 的 [Github 仓库](https://github.com/lxchapu/astro-gyoza) 来提 Issue 或者 PR。
+---
 
-## 关于作者
+### 关于博客
 
-我是 lxchapu，是一名前端开发者，喜欢各种有趣的东西。欢迎访问我的个人网站 [www.lxchapu.com](https://www.lxchapu.com)，了解关于我更多的信息。
+- 2008年 到 2013年 在网易平台上写博客，借着博客，认识了几个重要的好友。它帮我养成了记录生活的习惯
+- 2013年 转移到Lofter，持续创作到2016，这段时间我到了上海生活，工作越来越忙，暂停了创作
+- 2019年 重新把博客迁移到Typlog，并最终把博客名称改成《付之一笑》
+- 2023年 博客用Notion+Vercel+Github方案，免于托管，专心写作
+- 2024 年申请加入《[十年之约](https://foreverblog.cn/)》项目，期望能持续更新10 年以上
 
-## 致谢
 
-感谢以下项目：
+**穿越时间的文字**
 
-- [Astro](https://astro.build/)
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Jotai](https://jotai.org/)
+![DSC03299](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/DSC03299.jpg)
+
+博客中的文字一直是从我的视角出发，主观且片面！对读者来说，都是观点，且看且参考。我们应当多关注事实，对它进行全面的观察和全盘的思考，并以文字进行记录。
+
+当下所记录的文字，有它的局限性，只能代表这个瞬间的我。要勤于修剪和编辑，让部分值得回望的文字重新被大众所知。
+
+“数字花园”要养才能开满鲜花！
+
+
+**自由且克制**
+
+![DSC04066](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/DSC04066.jpg)
+
+要保持对“自由”的向往，对整个世界保持好奇心，从自己的角度出发，稳定且克制地去探索世界的边界，并总结其中的规律，找到穿越历史周期中不变的因素。
+
+掌握多个学科的通用模型，并尝试用它们来增加生活中遇到问题的新解法，多种角度去分析事件本身的基本事实，才足以让自己相信。
+
+保持怀疑一切的观点，勤分析，多思辨！
+
+**简单的生活**
+
+![DSC03225](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/DSC03225.jpg)
+
+保持生活上的简单，减少决策的心智成本，把精力花费在创作上。
+
+- 稳定且固定的运动习惯，有助于身体中的化学物质分泌
+- 每周稳定的阅读和写作，激活大脑神经的运转
+- 去观察社会多个面向的生活，不做同温层的“盲人”
+
+---
+
+### 与我联系
+
+感谢你的喜欢，如有问题讨论，欢迎通过以下方式与我联系：
+
+Twitter：https://twitter.com/Chacat68
+
+邮件：[chawf56@outlook.com](mailto:chawf56@outlook.com)
