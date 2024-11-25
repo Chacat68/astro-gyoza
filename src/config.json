@@ -15,8 +15,8 @@
   },
   "hero": {
     "name": "CHACAT",
-    "bio": "莫听穿林打叶声，何妨吟啸且徐行",
-    "description": "随笔, 设计, 思考, 它山之石.",
+    "bio": "阅读、思考、写作",
+    "description": "莫听穿林打叶声，何妨吟啸且徐行",
     "socials": [
       {
         "name": "Github",
@@ -37,7 +37,7 @@
         "color": "rgb(212, 70, 56)"
       }
     ],
-    "yiyan": "当第一颗卫星飞向大气层外，我们便以为自己终有一日会征服宇宙。"
+    "yiyan": "I think a life properly lived is just learn, learn, learn all the time."
   },
   "color": {
     "accent": [
