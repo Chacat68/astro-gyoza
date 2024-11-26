@@ -8,7 +8,7 @@ tags: [生活,诗句,英文,Rudyard Kipling]
 
 > 这首英诗是我在看《我董你》采访周玉琴小姐所知道的，上网搜索了一下，《三感》Blog上翻译的版本不错，借此与诸位分享。
 
-::youtube{#ZIsE_1qoSBBDfKRD}
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ryIsDgj7OXg?si=t8jk_vwVCN9z3X6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## 如果 (作者: Rudyard Kipling)
