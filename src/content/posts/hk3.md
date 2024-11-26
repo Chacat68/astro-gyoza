@@ -68,6 +68,6 @@ tags: [粤语音乐, 香港歌手, 麦浚龙, 音乐评论, 粤语流行曲]
 
 最后，大家欣赏这一个跨越十年的故事
 
-::youtube{#Jw7VTgc_sdwcCb7a}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xc6vJ6T1N3o?si=nZ90xeUP3cCCST-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 💡 感谢您的观看！欢迎分享文章，或是来信与我交流。
