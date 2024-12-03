@@ -6,7 +6,7 @@ comments: true
 
 ## 怎么申请友链？
 
-欢迎来信 *Chawf56@outlook.com* 交换友链！请在邮件中包含以下内容：
+欢迎来信 **Chawf56@outlook.com** 交换友链！请在邮件中包含以下内容：
 
 ```yml
 # [邮件主题]
