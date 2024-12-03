@@ -10,7 +10,7 @@ comments: false
 
 Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内容爱好者，EVA粉丝，日常在阅读、创作、跑步。
 
-- 博客会记录 [随笔](https://www.chawfoo.com/category/%E9%9A%8F%E7%AC%94)、[设计](https://www.chawfoo.com/category/%E8%AE%BE%E8%AE%A1)、[思考](https://www.chawfoo.com/category/%E6%80%9D%E8%80%83)、[它山之石](https://www.chawfoo.com/category/%E5%AE%83%E5%B1%B1%E4%B9%8B%E7%9F%B3)
+- 博客会记录 [随笔](https://blog.chawfoo.com/categories/%E9%9A%8F%E7%AC%94)、[设计](https://blog.chawfoo.com/categories/%E8%AE%BE%E8%AE%A1)、[思考](https://blog.chawfoo.com/categories/%E6%80%9D%E8%80%83)、[它山之石](https://blog.chawfoo.com/categories/%E5%AE%83%E5%B1%B1%E4%B9%8B%E7%9F%B3)
 - 我喜欢建筑，把它们做了一个整理：[**建筑指南**](https://www.chawfoo.com/art)
 - 喜欢的内容整理到：[**Look**](https://www.chawfoo.com/look)
 - 好东西分享：[**Goods**](https://www.chawfoo.com/happy)
