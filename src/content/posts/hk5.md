@@ -10,7 +10,12 @@ tags: [粤语音乐, 翻唱, 成长, 香港合唱团, 儿童合唱]
 
 ::bilibili{#BV1Cp4y1K7k1}
 
+---
+
 视频：[**《幼稚園》—香港南區少年兒童合唱團**](https://www.bilibili.com/video/BV1Cp4y1K7k1/?spm_id_from=333.788.recommend_more_video.0&vd_source=e3f691148decfc5ce580d295f958d5f0)
+
+
+---
 
 作詞：黃偉文作曲：陳光榮
 
