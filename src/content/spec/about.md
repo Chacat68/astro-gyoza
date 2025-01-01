@@ -20,12 +20,15 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 
 ### 关于博客
 
+#### 博客历史
+
 - 2008年 到 2013年 在网易平台上写博客，借着博客，认识了几个重要的好友。它帮我养成了记录生活的习惯
 - 2013年 转移到Lofter，持续创作到2016，这段时间我到了上海生活，工作越来越忙，暂停了创作
 - 2019年 重新把博客迁移到Typlog，并最终把博客名称改成《付之一笑》
 - 2023年 博客用Notion+Vercel+Github方案，免于托管，专心写作
 - 2024 年申请加入《[十年之约](https://foreverblog.cn/)》项目，期望能持续更新10 年以上
 
+#### 博客理念
 
 **穿越时间的文字**
 
@@ -57,6 +60,31 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 - 稳定且固定的运动习惯，有助于身体中的化学物质分泌
 - 每周稳定的阅读和写作，激活大脑神经的运转
 - 去观察社会多个面向的生活，不做同温层的“盲人”
+
+---
+
+### 我的工具
+
+#### 设备
+
+- 笔记本：MacBook Pro 16寸 2021
+- 手机：iPhone 13 Pro / OnePlus 8 Pro
+- 平板：iPad mini 6
+- 耳机：AirPods 3
+- 游戏机：Switch
+
+#### 游戏开发
+
+- 游戏引擎：Unity、Unreal、Godot
+- 游戏开发语言：C#、GDScript
+- IDE：Cursor、VSCode、Xcode
+
+#### 常用App
+
+- 写作：Notion、Obsidian、备忘录
+- 浏览器：Chrome、Brave
+- 效率：Raycast、Loop、Eagle
+- AI工具：ChatGPT、Claude、Midjourney、DeepSeek&API
 
 ---
 
