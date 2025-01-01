@@ -1,7 +1,7 @@
 ---
-title: 歌手：多愁善感的杨千嬅
+title: “大小姑婆”杨千嬅
 date: 2023-03-03
-summary: 杨千嬅是我最喜欢的粤语女歌手之一，她的歌曲陪伴了我成长，特别是《少女的祈祷》和《野孩子》等经典歌曲。她与黄伟文的友情见证了他们的成长和和解，让我感到开心。她的歌曲充满了感情和深意，让我对她的音乐产生了深深的喜爱。
+summary: 杨千嬅是我最喜欢的港台女歌手之一，她的歌伴随我整个青年时代，特别是《野孩子》这张专辑，也见证了她与黄伟文的友情分分合合。
 category: 随笔
 tags: [粤语音乐, 香港歌手, 杨千嬅, 音乐评论, 粤语流行曲]
 ---
@@ -33,3 +33,5 @@ tags: [粤语音乐, 香港歌手, 杨千嬅, 音乐评论, 粤语流行曲]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5zrTA_nFrYE?si=J7d2y_5aId6c1_2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 最后以最能代表杨小姐的《可惜我是水瓶座》作为结束的歌
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y8b-cOBVeSI?si=XAUqbXswH7Wj8rJB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
