@@ -35,3 +35,6 @@ tags: [粤语音乐, 香港歌手, 杨千嬅, 音乐评论, 粤语流行曲]
 最后以最能代表杨小姐的《可惜我是水瓶座》作为结束的歌
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y8b-cOBVeSI?si=XAUqbXswH7Wj8rJB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+> 💡 感谢您的观看！欢迎分享文章，或是来信与我交流。

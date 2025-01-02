@@ -118,3 +118,5 @@ https://github.com/tangly1024/NotionNext
 ![2024-11-30 at 16.47.04](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot%202024-11-30%20at%2016.47.04@2x.png)
 
 点击更新之后，可以在Vercel后台看到正在编译这次更新的操作，等待编译完成即可。
+
+> 💡 感谢您的观看！欢迎分享文章，或是来信与我交流。

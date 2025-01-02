@@ -155,3 +155,5 @@ Civitai（AI社区）， 可以找到其他人制作的模型
 - Notion AI：[Using Notion AI to extend your impact](https://www.notion.so/help/guides/using-notion-ai)
 - MidJourney：[MidJourney](https://www.midjourney.com/)
 - Stable Diffusion：[Stable Diffusion](https://www.stable-diffusion.com/)
+
+> 💡 感谢您的观看！欢迎分享文章，或是来信与我交流。

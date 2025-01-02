@@ -63,3 +63,5 @@ FigmaCN是一款设计插件，它可以将Figma界面翻译成中文，让中�
 修改日志：
 
 - 2023-10-23 ：不用Relingo、简悦，新增Notion Web Clipper、Minimal Theme for Twitter
+
+> 💡 感谢您的观看！欢迎分享文章，或是来信与我交流。

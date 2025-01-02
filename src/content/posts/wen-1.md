@@ -90,4 +90,4 @@ And—which is more—you’ll be a Man, my son!
 
 来源：[三感](https://threesentiments.com/2018/10/29/poetry-if/)
 
-> 感谢您的观看！欢迎分享文章，或是来信与我交流。
+> 💡 感谢您的观看！欢迎分享文章，或是来信与我交流。
