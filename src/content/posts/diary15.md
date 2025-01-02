@@ -8,7 +8,7 @@ tags: [音乐, , 摇滚, 情感, 回忆, 人生]
 
 > 王菲首次负责专辑封面概念，并第一次执笔谱写了她第一首国语歌〈执迷不悔〉的歌词，此歌成为她音乐生涯最知名的代表作之一
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zQiacbUDL2E?si=v6Ph3b-r5njCpi_D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::bilibili{#BV1GA411N7uY}
 
 ### 歌词：
 
