@@ -59,7 +59,7 @@ https://github.com/tangly1024/NotionNext
 
 ![202304251352510](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/202304251352510.png)
 
-点击**Environment Variables**（环境变量），并添加一个属性名称为**NOTION_PAGE_ID，**值为步骤一获取到的**页面ID**。
+点击Environment Variables（环境变量），并添加一个属性名称为NOTION_PAGE_ID，值为步骤一获取到的页面ID。
 
 ![202304251427618](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/202304251427618.png)
 
@@ -75,11 +75,11 @@ https://github.com/tangly1024/NotionNext
 
 ## 绑定域名
 
-在网站的控制台页面，找到Settings页面，
+在网站的控制台页面，找到Settings页面
 
 ![202304251432042](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/202304251432042.png)
 
-点击切换到 **Domains** 页面，输入域名并点击 add 按钮进行添加。添加成功后会出现域名解析所需的 IP 和服务器。前往域名管理页面，解析到指定地址即可。所有配置完成后，请耐心等待域名商进行解析。解析时间一般在 24 小时内生效，速度快慢不一。
+点击切换到 Domains 页面，输入域名并点击 add 按钮进行添加。添加成功后会出现域名解析所需的 IP 和服务器。前往域名管理页面，解析到指定地址即可。所有配置完成后，请耐心等待域名商进行解析。解析时间一般在 24 小时内生效，速度快慢不一。
 
 ![202304251435279](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/202304251435279.png)
 
@@ -87,7 +87,7 @@ https://github.com/tangly1024/NotionNext
 
 ## 配置中心（6月6号更新）
 
-如果你的版本是 **V4.1.0** 之后的版本，支持该配置页面，有一些网站的基本配置在这里直接修改，而不用像之前需要去改 **blog.config.js** 才能生效
+如果你的版本是 V4.1.0 之后的版本，支持该配置页面，有一些网站的基本配置在这里直接修改，而不用像之前需要去改 blog.config.js 才能生效
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c2456f7-0963-462e-bb9b-ede658d017ce/c8a3ecbd-263c-4b96-bf31-f124eb98f4ab/Untitled.png)
 
