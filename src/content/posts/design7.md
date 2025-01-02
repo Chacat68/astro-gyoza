@@ -12,7 +12,7 @@ tags: [游戏设计, 地图制作, 策略游戏, 地形设计, 三国, 设计方
 
 Eagle 可以轻松收集及整理设计项目的“案例、灵感、截图、图片、视频、音频、情绪板”等各种素材，激发更多创意灵感，让工作变得更有效率！
 
-[Eagle - Organize all your reference images in one place](https://eagle.cool/)
+[Eagle官网](https://eagle.cool/)
 
 ## 灵感库
 
@@ -22,7 +22,7 @@ Eagle 可以轻松收集及整理设计项目的“案例、灵感、截图、�
 
 例如：字体效果预览
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-20 at 07.45.38.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190432190.png?imageSlim)
 
 ### 一、收集素材
 
@@ -32,21 +32,21 @@ Eagle 可以轻松收集及整理设计项目的“案例、灵感、截图、�
 
 例如：[pinterest](https://www.pinterest.com/)里更多点子功能
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/8iCthe.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190519994.png?imageSlim)
 
 在搜索好的页面里，使用Eagle的 浏览器插件可以很好地支持批量收集素材。这里推荐两种用法，一种是保存画板图片，另一种是批量收藏
 
 1. 保存画板图片：它会把一个画板里所有图标导入到Eagle里，以画板名称创建文件夹
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.19.17.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190543663.png?imageSlim)
 
 1. 批量收藏：它会把当前页面下所有图片到导入到Eagle，你可以挑选需要导入的图片，默认导入到Eagle全部分类里，需要再进行分类。
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.24.16.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190608963.png?imageSlim)
 
 这功能配合Midjourney的网页版使用，非常丝滑！
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.25.39.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190631100.png?imageSlim)
 
 ### 二、整理素材
 
@@ -54,13 +54,13 @@ Eagle 可以轻松收集及整理设计项目的“案例、灵感、截图、�
 
 Eagle里支持多层树状结构的文件夹目录，根据自己的分类方式罗列好，在收集页面上可以选择要添加的文件夹，快速进行整理。
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.29.23.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190652322.png?imageSlim)
 
 1. 标签整理
 
 和文件夹思路类似，通过给素材添加标签来分类，软件也会根据图片的内容推荐一些标签，根据自己的需求选择，后续建议可以参考Notion给页面AI智能打标签的功能。
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.32.13.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190711960.png?imageSlim)
 
 ### 三、搜索素材
 
@@ -70,19 +70,19 @@ Eagle里支持多层树状结构的文件夹目录，根据自己的分类方式
 
 点击搜索相似颜色的项目即可
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.34.48.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190739085.png?imageSlim)
 
 1. 标签、文件夹搜索
 
 标签、文件夹搜索直接在搜索框里输入标签关键词即可
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.40.55.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190754384.png?imageSlim)
 
 1. 资源社区
 
 软件里加入了官方的资源社区，里面有用户和官方整理的资源包，包括一些开源免费商用的字体、图标包等等
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.59.13.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190813750.png?imageSlim)
 
 ## 插件介绍
 
@@ -92,25 +92,22 @@ Eagle里支持多层树状结构的文件夹目录，根据自己的分类方式
 
 这功能是基于4.0版本的插件实现的，可以根据选中的图快速搜索到Pinterest网站上的图片，而无需再次进入网站去搜索。
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.46.47.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190829917.png?imageSlim)
 
 ### 二、AI图片放大
 
 使用本地的AI模型，对选中的图片进行 4 倍大小的放大，有照片和插画两种模式，可使用分割/并排对比两种模式查看，可以批量处理图片，成功后可以全部图换原图。
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.54.54.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190842697.png?imageSlim)
 
 ### 三、更多插件
 
 其他插件就不一一介绍，大家有兴趣可以自己尝试体验一下
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/CleanShot 2024-02-19 at 20.55.35.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250102190900225.png?imageSlim)
 
 ## 总结
 
 Eagle是我购买的付费软件中最有性价比的，采用付费买断制，一次付费，终生使用。开发团队在持续的更新中也向用户证明他们在扩展这款软件的边界。向大家强烈推荐！
-
-
-
 
 > 💡 感谢您的观看！欢迎分享文章，或是来信与我交流。
