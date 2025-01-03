@@ -3,7 +3,7 @@ title: Godot 4.2 使用小记
 date: 2024-05-25
 summary: 使用Godot4.2的体验记录，它比3.x阶段的使用体验成熟不少，现在可以作为一个创作工具去使用。
 category: 设计
-tags: [Godot, 4.2, 创作, 工具]
+tags: [Godot, 使用经验, 创作, 工具]
 ---
 
 ## 前言
