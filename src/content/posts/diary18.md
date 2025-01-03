@@ -1,34 +1,54 @@
 ---
-title: 记录最近跑步的快乐
+title: 种田游戏参考合集
 date: 2024-06-04
-summary: 不管怎样，先跑起来！酸痛会有，快乐亦然！
+summary: 这是我们正在筹划的模拟经营游戏项目的前期灵感与素材搜集！
 category: 随笔
-tags: [跑步, 快乐, 酸痛, 生活]
+tags: [种田, 游戏, 参考, 像素]
 ---
 
-![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104010045379.png?imageSlim)
+## 正视角 2D像素画风
 
-家门口有一条刚规划出来的路，因为不是主干道，车少，反而成为附近跑步的热门地点，在道路的两边总是能看到很多正在跑步的跑友，年纪从高中生到退休老者都有，每次看到都心痒痒。
+[**像素郡物语/Pixelshire**](https://www.bilibili.com/video/BV1xg41197Cn/?vd_source=e3f691148decfc5ce580d295f958d5f0)
 
-调整一段时间生活作息，习惯了早睡早起的生活，但是体重一直没有掉下去，加上南方天气炎热， 身体代谢慢，导致胃口也不太好。想着靠运动来激活身体的代谢，最后选了自重训练和跑步。
+正视角的模拟经营游戏，画风有点像早起塞尔达，风格比较简单复古。用的美术素材有点一般，没有太明显的特征。
 
-一开始把目标定在两三公里左右，身体的状态没有恢复的很好，采用间隙跑的方式，跑一段走一段。 先把习惯培养起来，我选择了在晚餐之后，替换原来看电视的习惯。
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104011427584.png?imageSlim)
 
-身体真是一个奇妙的机器，长时间不使用，跑起来像老旧的拖拉机。粗壮的呼吸，酸痛的肌肉，时常感觉自己在抽筋的边缘，让我分不清到底是真实的身体状态，还是自己脑海中幻想出来的逃避手段。
+[林中小女巫](https://www.bilibili.com/video/BV1kC411J76o/?vd_source=e3f691148decfc5ce580d295f958d5f0)
 
-这些症状在跑了一个多月之后慢慢消失，能够从容去看路上的风景和人，也慢慢把距离延长到5-6公里之间。
+正视角的RPG游戏，场景的设计上比较贴合项目，细节景观设计比较亮眼有特色。
 
-时间变长了，路途中难免无聊，就把存好的播客拿出来听，听着播客里主播讲述各种人生故事，奇妙想法，慢慢我进入了心流的状态，享受路上吹过来的微微晚风。
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104011445664.png?imageSlim)
 
-![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104010152140.png?imageSlim)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104011500234.png?imageSlim)
 
-不知不觉，这个习惯已经坚持了半年，不再考虑发社交媒体去打卡，它反而变成了我生活中日常习惯之一，在感受到压力和迷茫的时候，放下思绪，开始跑一段再说。
+## 斜45度视角，2D像素画风
 
-跑步的时间也不再纠结在一个固定的时间段，身体状态ok，来下楼跑一次。跑完回到家洗澡，继续投入之前没解决的问题。
+[Yokai Inn](https://www.bilibili.com/video/BV1pb4y1h7cn/)
 
-有时候停下来没关系，能够重新跑起来就是好样的。来一直跑下来，直到生命的尽头。到时候再来回顾自己的旅途，希望是过得非常过瘾！
+作为斜45度像素画风游戏参考，角色两头身，题材画风比较有趣，作为像素民俗内容的参考。
 
-跑步开心最重要！🏃
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104011543823.png?imageSlim)
+
+[**Frontier Story**](https://www.bilibili.com/video/BV11341167X1/?vd_source=e3f691148decfc5ce580d295f958d5f0)
+
+作为斜45度像素画风游戏参考，角色三头身，建筑和景观刻画上细节很丰富
+
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104011612723.png?imageSlim)
+
+## 漫画风格
+
+[**《失物招领有限公司》**](https://www.bilibili.com/video/BV1AJ4m1372L/?vd_source=e3f691148decfc5ce580d295f958d5f0)
+
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104011637394.png?imageSlim)
+
+玩法参考
+
+[**满庭芳 宋上繁华**](https://www.bilibili.com/video/BV1HZ421p7Xp/?vd_source=e3f691148decfc5ce580d295f958d5f0)
+
+画风上深入借鉴了《江南百景图》，游戏让玩家扮演宋朝时期的县官，负责城市的发展和管理。在历史人物的刻画和模拟经营的核心经济玩法上完成度很高。在江南的基础上加上了航海、战斗、收藏等系统，可玩度提升很多。
+
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104011655048.png?imageSlim)
 
 ---
 
