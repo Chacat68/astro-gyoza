@@ -4,7 +4,7 @@ description: 关于我和博客
 comments: false
 ---
 
-### 关于我
+## 关于我
 
 ![31231314](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/31231314.png)
 
@@ -17,9 +17,9 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 
 ---
 
-### 关于博客
+## 关于博客
 
-#### 博客历史
+### 博客历史
 
 - 2008年 到 2013年 在网易平台上写博客，借着博客，认识了几个重要的好友。它帮我养成了记录生活的习惯
 - 2013年 转移到Lofter，持续创作到2016，这段时间我到了上海生活，工作越来越忙，暂停了创作
@@ -27,9 +27,9 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 - 2023年 博客用Notion+Vercel+Github方案，免于托管，专心写作
 - 2024 年申请加入《[十年之约](https://foreverblog.cn/)》项目，期望能持续更新10 年以上
 
-#### 博客理念
+### 博客理念
 
-**穿越时间的文字**
+#### 写出穿越时间的文字
 
 ![DSC03299](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/DSC03299.jpg)
 
@@ -40,7 +40,7 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 “数字花园”要养才能开满鲜花！
 
 
-**自由且克制**
+#### 表达自由且克制
 
 ![DSC04066](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/DSC04066.jpg)
 
@@ -50,7 +50,7 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 
 保持怀疑一切的观点，勤分析，多思辨！
 
-**简单的生活**
+#### 记录简单的生活
 
 ![DSC03225](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/DSC03225.jpg)
 
@@ -62,9 +62,9 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 
 ---
 
-### 我的工具
+## 我的工具
 
-#### 设备
+### 设备
 
 - 笔记本：MacBook Pro 16寸 2021
 - 手机：iPhone 13 Pro / OnePlus 8 Pro
@@ -72,13 +72,13 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 - 耳机：AirPods 3
 - 游戏机：Switch
 
-#### 游戏开发
+### 游戏开发
 
 - 游戏引擎：Unity、Unreal、Godot
 - 游戏开发语言：C#、GDScript
 - IDE：Cursor、VSCode、Xcode
 
-#### 常用App
+### 常用App
 
 - 写作：Notion、Obsidian、备忘录
 - 浏览器：Chrome、Brave
