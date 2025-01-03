@@ -3,7 +3,7 @@ title: Chrome插件推荐 2024版
 date: 2024-04-10
 summary: 2024年版的Chrome插件推荐，由于AI的崛起，许多产品纷纷引入了AI功能，因此值得重新把产品做一遍。
 category: 随笔
-tags: [音乐，王菲，执迷不悔，国语]
+tags: [2024, 插件推荐, Chrome, AI, 产品]
 ---
 
 ## 往年推荐：
