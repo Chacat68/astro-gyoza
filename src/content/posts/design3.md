@@ -2,7 +2,7 @@
 title: AI小记：初体验
 date: 2022-12-04
 summary: 介绍了AI在2D和3D设计中的应用，探讨了未来的发展趋势。
-category: 设计
+category: 思考
 tags: [AI, 设计, 素材库, 工具, 效率]
 ---
 

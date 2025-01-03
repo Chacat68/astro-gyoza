@@ -2,7 +2,7 @@
 title: 游览器插件介绍
 date: 2023-03-11
 summary: 2023年chrome浏览器插件介绍和推荐。
-category: 设计
+category: 随笔
 tags: [浏览器插件, 效率工具, 翻译工具, 网页优化, 设计工具]
 ---
 

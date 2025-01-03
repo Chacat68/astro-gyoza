@@ -2,7 +2,7 @@
 title: AI小记：23年10月
 date: 2023-11-21
 summary: 23年10月阶段性对AI观感的思考，一种更可控的方式出现，AI变成了一种能力.
-category: 设计
+category: 思考
 tags: [AI, 设计, 创作, 工具, 效率]
 ---
 
