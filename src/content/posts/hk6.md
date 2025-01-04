@@ -16,7 +16,7 @@ tags: [粤语音乐, 陈小春, 情歌, 陪伴, 声生不息]
 
 ---
 
-::bilibili{#BV1q34y147Qt}
+::bilibili{#BV1dx411k7mq}
 
 ---
 
