@@ -8,6 +8,7 @@ tags: [最小成本, 生活, 简洁, 日常]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0fD7XYkMzR0?si=7XuBeyP1oRL63XWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
 
 **歌曲：如果你要离去**
 
@@ -54,6 +55,8 @@ tags: [最小成本, 生活, 简洁, 日常]
 为了在相绕一圈过后，或许还能够将当时心中的“不想你走”面对面的全盘脱出。
 
 ---
+
+**歌词：**
 
 如果你要离去
 
