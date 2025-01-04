@@ -6,7 +6,7 @@ category: 它山之石
 tags: [诗句, 中文, 船, 命运, 际遇]
 ---
 
-![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104160029110.png?imageSlim)
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250104172011526.png?imageSlim)
 
 ---
 
