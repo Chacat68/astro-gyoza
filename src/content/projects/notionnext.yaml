@@ -1,0 +1,4 @@
+title: NotionNext博客
+description: NotionNext博客是一个基于Notion的博客系统，使用Next.js作为前端框架，Vercel作为部署平台。NotionNext博客的特点是使用Notion作为后台，可以在Notion上直接编辑博客内容，然后通过Next.js生成静态页面，再部署到Vercel上。这样做的好处是可以使用Notion的强大编辑功能，同时又可以获得Next.js的高性能和Vercel的免费部署。
+image: https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250105183042962.png?imageSlim
+link: https://notion-next-kohl-rho-39.vercel.app/
