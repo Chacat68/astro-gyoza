@@ -1,5 +1,5 @@
 ---
-title: 游览器插件介绍
+title: 2023年必装Chrome插件推荐
 date: 2023-03-11
 summary: 2023年chrome浏览器插件介绍和推荐。
 category: 随笔

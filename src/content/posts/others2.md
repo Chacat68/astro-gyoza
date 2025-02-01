@@ -1,5 +1,5 @@
 ---
-title: 《生如夏花》- 泰戈尔
+title: 泰戈尔的生命之歌：《生如夏花》赏析
 date: 2024-09-03
 summary: 《生如夏花》（Let life be beautiful like summer flowers ）泰戈尔写的诗歌，收录在《飞鸟集》。
 category: 它山之石
