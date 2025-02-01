@@ -2,7 +2,7 @@
 title: Steam转区指南（2022）
 date: 2022-08-25
 summary: 讨论了Steam转区的原因、最新政策、具体操作步骤及支付渠道等方面的内容。
-category: 随笔
+category: 设计思考
 tags: [Steam, 转区, VPN, 支付方式, 游戏购买]
 ---
 
