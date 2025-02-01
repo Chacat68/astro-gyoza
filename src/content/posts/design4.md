@@ -2,7 +2,7 @@
 title: AI扮演知识策展人
 date: 2023-02-25
 summary: 探讨了AI在创作过程中的应用及其未来发展趋势。
-category: 思考
+category: 设计思考
 tags: [AI, 设计, 创作, 工具, 效率]
 ---
 

@@ -2,7 +2,7 @@
 title: 进一步融合的AI
 date: 2024-09-26
 summary: 自从GPT-3.5爆发以来，短短一年多的时间，大模型的应用从极客圈扩展到更广泛的人群
-category: 思考
+category: 设计思考
 tags: [GPT, AI, 翻译, 写作, 大模型]
 ---
 

@@ -2,7 +2,7 @@
 title: Notion AI：简化写作的助手
 date: 2023-03-16
 summary: Notion AI是基于GPT-3人工智能模型的写作助手，通过自然语言处理和机器学习技术，提供智能化的写作支持。它适用于各种用户群体，在学术研究、商业写作和日常生活中都能提高写作效率和质量。
-category: 设计
+category: 设计思考
 tags: [AI, 写作, 工具, 效率，Notion，AI写作助手]
 ---
 

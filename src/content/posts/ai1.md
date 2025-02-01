@@ -2,7 +2,7 @@
 title: AI-入门经验分享
 date: 2023-03-01
 summary: AI入门经验分享，包括ChatGPT、Notion与AI、MidJourney和Stable Diffusion的介绍和使用经验。
-category: 思考
+category: 设计思考
 tags: [AI, 设计, 创作, 工具, 效率]
 ---
 

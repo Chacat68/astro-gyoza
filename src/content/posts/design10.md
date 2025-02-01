@@ -2,7 +2,7 @@
 title: ComfyUI 实践
 date: 2024-10-03
 summary: ComfyUI 是一个专为 Stable Diffusion 设计的基于节点的图形用户界面。
-category: 设计
+category: 设计思考
 tags: [ComfyUI, 实践经验, 创作, 工具]
 ---
 
