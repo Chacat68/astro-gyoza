@@ -1,12 +1,12 @@
 ---
-title: 词曲人：C.Y.KONG&Jean
+title: 港乐集《C.Y.KONG&Jean》
 date: 2020-02-17
 summary: 介绍了香港音乐人C.Y.KONG和Jean Chien的作品和影响。
 category: 随笔
 tags: [港乐,粤语,作曲人,音乐,CY Kong,Jean Chien]
 ---
 
-> 港乐集：记录自己经历的粤语歌坛黄金年代，写一些自己喜欢的粤语流行或小众音乐。
+> 港乐集：细数那些光影交织的粤语歌年代，记录心中难忘的旋律，分享或流行或小众的港乐故事。
 
 ### 开篇
 

@@ -1,10 +1,12 @@
 ---
-title: 《相依为命》
+title: 港乐集《相依为命》
 date: 2024-12-11
 summary: 即使身边世事再毫无道理，与你永远亦连在一起。
 category: 随笔
 tags: [粤语音乐, 陈小春, 情歌, 陪伴, 声生不息]
 ---
+
+> 港乐集：细数那些光影交织的粤语歌年代，记录心中难忘的旋律，分享或流行或小众的港乐故事。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7cW2NlDlyWg?si=73yrK14r3eS7Z8X7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
