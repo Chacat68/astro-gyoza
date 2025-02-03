@@ -22,7 +22,7 @@ tags: [生活,华语音乐,陈绮贞,音乐,民谣]
 
 在繁忙的城市生活中，这首歌就像是一缕温暖的阳光。"我们都是太阳的孩子，我们都是月亮的女儿"，歌词里藏着对生命的赞美，对自然的敬意。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jR74DTy0wTY?si=5Hqh40HHJRzTkfxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E9Ne1jVFiEY?si=JFoeFCaR120HbuOX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 《华丽的冒险》
 
