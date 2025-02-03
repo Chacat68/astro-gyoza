@@ -16,7 +16,7 @@ tags: [生活,华语音乐,陈绮贞,音乐,民谣]
 
 这首歌让许多人爱上了陈绮贞。"我喜欢看着你发呆，想象你在想什么"，简单的歌词道出了爱情最纯粹的模样。这首歌不仅是关于旅行，更是关于生命中遇见的每一段故事。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XyPAZG7xphg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jR74DTy0wTY?si=Q0aTJ_oebUAF_Hih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 《太阳》
 
