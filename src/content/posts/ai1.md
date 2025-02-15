@@ -149,7 +149,7 @@ Civitai（AI社区）， 可以找到其他人制作的模型
 - 创意社区[ArtHub.ai](https://arthub.ai/)
     - 一个AI画图的创作社区，可以看到其他创作时使用的参数
 
-## 内容来源
+## 参考
 
 - ChatGPT维基百科：[ChatGPT - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/ChatGPT)
 - Notion AI：[Using Notion AI to extend your impact](https://www.notion.so/help/guides/using-notion-ai)

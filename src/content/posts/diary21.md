@@ -50,7 +50,7 @@ tags: [最小成本, 生活, 简洁, 日常]
 
 这是我近期最为触动的小事，愿大家都能转过念头，大事化小，小事化了，够用就行！
 
-### 扩展阅读
+### 延伸阅读
 
 和菜头：[加个群交流学习经验](https://www.hecaitou.com/2024/06/Join-a-group-to-exchange-learning-experiences.html?m=1)
 

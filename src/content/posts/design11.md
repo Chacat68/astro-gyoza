@@ -240,7 +240,7 @@ tags: [游戏开发, 地图系统, 策略游戏, 技术方案]
 
 随着技术的快速迭代，AI生成内容（Procedural Content Generation）、实时全局光照（Real-time Global Illumination）等前沿技术正在重塑地图系统的开发范式。建议开发者在坚持传统方法论的基础上，nexplores新技术带来的机遇与挑战，打造更具创新性和竞争力的游戏作品。
 
-## 引用
+## 参考
 
 - 开源地图编辑器：[Tiledmap](https://www.mapeditor.org/)
 
