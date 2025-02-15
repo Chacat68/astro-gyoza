@@ -2,7 +2,7 @@
 title: 平静中的剧变：2024生活札记
 date: 2024-12-31
 summary: 算是这一年的记录，快乐生活.
-category: 随笔
+category: 生活随笔
 tags: [稀缺, 生活, 生活, 日常]
 ---
 
