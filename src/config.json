@@ -104,16 +104,16 @@
     "wechat": ""
   },
   "analytics": {
-    "enable": false,
+    "enable": true,
     "google": {
-      "measurementId": ""
+      "measurementId": "G-YZ5M0N76P8"
     },
     "umami": {
       "serverUrl": "",
       "websiteId": ""
     },
     "microsoftClarity": {
-      "projectId": ""
+      "projectId": "ktj3dhm0ef"
     }
   }
 }
