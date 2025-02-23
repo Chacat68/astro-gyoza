@@ -8,9 +8,8 @@ export async function GET(context: APIContext) {
   // 获取经过排序的文章列表
   const sortedPosts = await getSortedPosts()
   
-  // 生成并返回 RSS feed
+  // 删除这里多余的大括号，直接返回 rss 配置
   return rss({
-    // 设置 RSS feed 的标题
     title: site.title,
     // 设置 RSS feed 的描述
     description: site.description,
