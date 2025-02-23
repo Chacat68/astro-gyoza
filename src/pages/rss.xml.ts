@@ -3,21 +3,31 @@ import rss from '@astrojs/rss'
 import { site } from '@/config.json'
 import { getSortedPosts } from '@/utils/content'
 
+// 导出异步 GET 函数，接收 Astro API 上下文作为参数
 export async function GET(context: APIContext) {
+  // 获取经过排序的文章列表
   const sortedPosts = await getSortedPosts()
+  
+  // 生成并返回 RSS feed
   return rss({
-
-
-  const feed = await rss({
+    // 设置 RSS feed 的标题
     title: site.title,
+    // 设置 RSS feed 的描述
     description: site.description,
+    // 设置站点 URL
     site: context.site!,
+    // 将文章转换为 RSS 条目
     items: sortedPosts.map((post) => ({
+      // 文章链接
       link: `/posts/${post.slug}`,
+      // 文章标题
       title: post.data.title,
+      // 发布日期
       pubDate: post.data.date,
+      // 文章摘要
       description: post.data.summary,
     })),
+    // 自定义 XML 数据
     customData: `<language>${site.lang}</language>
     <follow_challenge>
       <feedId>106394337974619136</feedId>
