@@ -6,6 +6,8 @@ category: 生活随笔
 tags: [插件推荐, Chrome, AI, 产品]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 ## 往年推荐：
 
 ### [**1Password - 密碼管理器**](https://chromewebstore.google.com/detail/1password-%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/aeblfdkhhhdcdjpifhhbdiojplfjncoa)

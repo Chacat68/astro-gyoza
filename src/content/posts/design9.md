@@ -6,6 +6,8 @@ category: 设计思考
 tags: [Godot, 使用经验, 创作, 工具]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 ## 前言
 
 最近因为[Brackeys的教程](https://youtu.be/LOhfqjmasi0?si=CJVbxxd2kuC231Ct)，同时也在做技术调研，就跟着教程把游戏原型给做了出来。

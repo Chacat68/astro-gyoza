@@ -6,6 +6,8 @@ category: 它山之石
 tags: [演讲, 中文, 英文, 乔布斯, 际遇]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 ![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250108091020774.png?imageSlim)
 
 ---

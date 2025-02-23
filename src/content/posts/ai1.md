@@ -6,6 +6,8 @@ category: 人工智能
 tags: [AI, 设计, 创作, 工具, 效率]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 ## 一、OpenAI与ChatGPT
 
 ### 1.1 介绍ChatGPT

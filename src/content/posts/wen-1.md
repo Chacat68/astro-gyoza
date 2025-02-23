@@ -6,6 +6,8 @@ category: 它山之石
 tags: [生活,诗句,英文,Rudyard Kipling]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 > 这首英诗是我在看《我董你》采访周玉琴小姐所知道的，上网搜索了一下，《三感》Blog上翻译的版本不错，借此与诸位分享。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ryIsDgj7OXg?si=GPCCsJo-v_WuZzmx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -46,7 +48,7 @@ tags: [生活,诗句,英文,Rudyard Kipling]
 如果，你重视每个人的价值，却不过于重视；
 如果，你能把热情和活力注入于每分每秒当中，
 你就能拥有全世界，一切都属于你的了，
-并且，更重要的是，你将成为一个顶天立地的男子汉了，我的儿子！
+并且，最重要的是，你将成为一个顶天立地的男子汉了，我的儿子！
 
 ## 原诗全文
 

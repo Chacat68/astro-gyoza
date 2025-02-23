@@ -6,6 +6,8 @@ category: 人工智能
 tags: [AI, 写作, 工具, 效率，Notion，AI写作助手]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 作为我一直使用的笔记工具，Notion曾经让我写下过许多使用体验文章。去年11月份，我重新整理成[《Diary9 Notion笔记实践 2.0 》](https://www.chawfoo.com/article/diary9)这篇文章。 今年 AI 功能的加入让我想补充一下最新的体验，它成为了我最佳的创作助手。
 
 ## 介绍Notion AI

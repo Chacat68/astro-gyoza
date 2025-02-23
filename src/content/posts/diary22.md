@@ -6,6 +6,8 @@ category: 生活随笔
 tags: [最小成本, 生活, 简洁, 日常]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0fD7XYkMzR0?si=7XuBeyP1oRL63XWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -6,6 +6,8 @@ category: 它山之石
 tags: [生活,诗句,英文,生命]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 ::bilibili{#BV1Sy4y1e7Ub}
 
 来源：Oriah Mountain Dreamer（节选）

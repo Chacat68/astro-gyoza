@@ -6,6 +6,8 @@ category: 人工智能
 tags: [AI, 设计, Ollama, 工具, 效率, 本地]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 > 由于OpenAI服务不稳定，我打算不再续费。我将寻找其它替代产品，例如，用NotionAI处理文档，用GitHub Copilot写代码，对于一些翻译和文本处理工作，我选择Ollama。
 
 ## Ollama 本地大模型
@@ -76,7 +78,7 @@ ollama rm llama2
     
     更新了v0.3版本
     
-    Mistral-7B-v0.3 是由 Mistral AI 团队开发的大型语言模型（LLM），是 Mistral-7B-v0.2 的升级版。该模型在多个方面进行了改进和增强。通过扩展词汇表、改进分词器支持以及引入函数调用等一系列战略改进，展示了令人鼓舞的结果。
+    Mistral-7B-v0.3 是由 Mistral AI 团队开发的大型语言模型（LLM），是 Mistral-7B-v0.2 的升级版。该模型在多个方面进行了改进和增强。通过扩展词汇表、改进分词器支持以及引入函数调用的一系列战略改进，展示了令人鼓舞的结果。
     
 
 ### 寻找更多模型
@@ -113,7 +115,7 @@ SuperCLUE 是一个中文通用大模型综合性评测基准，从三个不同�
 
 💡 MMLU 大规模多任务语言理解基准
 
-MMLU 全称 Massive Multitask Language Understanding，是一种针对大模型的语言理解能力的测评，是目前最著名的大模型语义理解测评之一，由UC Berkeley大学的研究人员在2020年9月推出。该测试涵盖57项任务，包括初等数学、美国历史、计算机科学、法律等。任务涵盖的知识很广泛，语言是英文，用以评测大模型基本的知识覆盖范围和理解能力。
+MMLU 全称 Massive Multitask Language Understanding，是一种针对大模型的语言理解能力的测评，是目前最著名的大模型语义理解测评之一，由UC Berkeley大学的研究人员
 
 [Papers with Code - MMLU Benchmark (Multi-task Language Understanding)](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu)
 

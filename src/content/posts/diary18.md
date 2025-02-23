@@ -6,6 +6,8 @@ category: 生活随笔
 tags: [种田, 游戏, 参考, 像素]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 ## 正视角 2D像素画风
 
 [**像素郡物语/Pixelshire**](https://www.bilibili.com/video/BV1xg41197Cn/?vd_source=e3f691148decfc5ce580d295f958d5f0)

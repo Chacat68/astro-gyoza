@@ -6,6 +6,8 @@ category: 设计思考
 tags: [商业模式, 远程工作, 公司文化, 独立经营, 创新, 生产力]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 # 前言
 
 在2023年初，我决定更换博客的托管方式，想找一个更加方便的方式。由于我是Notion的重度用户，于是我找到了[NotionNext](https://github.com/Chacat68/NotionNext)。

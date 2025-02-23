@@ -6,6 +6,8 @@ category: 生活随笔
 tags: [进击的巨人, 电影, 观影, 动漫, 生活]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 > 趁着最终季的更新，花了一天时间，一口气看完了《进击的巨人》
 
 ![进击的巨人](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/f1beTf.jpg)

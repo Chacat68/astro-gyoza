@@ -6,6 +6,8 @@ category: 它山之石
 tags: [生活,诗句,英文,时间,命运，际遇]
 ---
 
+> 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pXFrdV3Vd5k?si=gBlTaVHW9m7GLSzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
