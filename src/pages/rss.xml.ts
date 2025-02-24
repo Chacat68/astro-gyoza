@@ -7,7 +7,7 @@ import { getSortedPosts } from '@/utils/content'
 export async function GET(context: APIContext) {
   // 获取经过排序的文章列表
   const sortedPosts = await getSortedPosts()
-  
+
   // 删除这里多余的大括号，直接返回 rss 配置
   return rss({
     title: site.title,
@@ -35,3 +35,4 @@ export async function GET(context: APIContext) {
     <!-- 在这里添加您的 XML 代码 -->
     `,
   })
+} // <- 添加这个结束括号来关闭 GET 函数
