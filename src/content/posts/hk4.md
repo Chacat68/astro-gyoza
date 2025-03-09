@@ -10,7 +10,13 @@ tags: [粤语音乐, 香港歌手, 杨千嬅, 音乐评论, 粤语流行曲]
 
 > 港乐集：细数那些光影交织的粤语歌年代，记录心中难忘的旋律，分享或流行或小众的港乐故事。
 
-杨千嬅小姐是我最喜欢的粤语歌手之一，在我的青春年代她就一直陪伴着我的成长，我也作为一个歌迷见证她一路的成长。
+## 前言
+
+在香港乐坛的璀璨星河中，杨千嬅如同一颗独特的明星，以她爽朗的笑声和真挚的歌声照亮了无数人的青春岁月。从阳光少女到成熟女性，她的音乐之旅不仅记录了自己的成长，也陪伴着我们走过人生的喜怒哀乐。
+
+她与黄伟文的创作组合堪称绝配，从《野孩子》到《可惜我是水瓶座》，每一首歌都像是一封写给时光的情书，诉说着爱情、友情与成长的故事。作为一个从青春期就开始聆听她歌声的粉丝，我见证了她的蜕变与坚持，也在她的歌声中找到了共鸣与慰藉。
+
+这篇文章，是我对这位"大笑姑婆"音乐生涯的致敬，也是对自己青春记忆的一次温柔回望。
 
 **《少女的祈祷》**
 
@@ -30,13 +36,12 @@ tags: [粤语音乐, 香港歌手, 杨千嬅, 音乐评论, 粤语流行曲]
 
 黄伟文（Wyman）写了《最好的债》这首歌，把想和解的心意都写在歌词里。千嬅也在演唱会中感谢了填词人提供的好作品，世纪一抱之后，他们和解了。
 
-在香港太平山顶上，有一条叫做芬梨道的道路，芬梨在粤语中意为“分离”。《芬梨道上》讲述了一个感情中分离的故事，描绘了构建感情的艰难。配合千嬅低声歌唱，有一种你在太平山上散步，看到这个爱情故事的发生，感慨爱情维护的艰难，就像歌词中唱的：怎可给停留一世，只得很少数伉俪。
+在香港太平山顶上，有一条叫做芬梨道的道路，芬梨在粤语中意为"分离"。《芬梨道上》讲述了一个感情中分离的故事，描绘了构建感情的艰难。配合千嬅低声歌唱，有一种你在太平山上散步，看到这个爱情故事的发生，感慨爱情维护的艰难，就像歌词中唱的：怎可给停留一世，只得很少数伉俪。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5zrTA_nFrYE?si=J7d2y_5aId6c1_2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 最后以最能代表杨小姐的《可惜我是水瓶座》作为结束的歌
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y8b-cOBVeSI?si=XAUqbXswH7Wj8rJB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 > 💡 感谢您的观看！欢迎分享文章，或是来信与我交流。
