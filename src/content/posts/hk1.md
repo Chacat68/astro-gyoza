@@ -3,7 +3,7 @@ title: 港乐集《C.Y.KONG&Jean》
 date: 2020-02-17
 summary: 介绍了香港音乐人C.Y.KONG和Jean Chien的作品和影响。
 category: 生活随笔
-tags: [港乐,粤语,作曲人,音乐,CY Kong,Jean Chien]
+tags: [港乐, 粤语, 作曲人, 音乐, CY Kong, Jean Chien]
 ---
 
 > 本站 RSS地址已更新，麻烦读者朋友们重新订阅一次喔！
@@ -15,7 +15,6 @@ tags: [港乐,粤语,作曲人,音乐,CY Kong,Jean Chien]
 想写这篇文章，也是在《世界真细小》歌曲出来之后，想谈谈C.Y.KONG，这是我个人最喜欢的香港音乐人之一。
 
 > 介绍：C.Y. Kong，谐音：思歪江，是香港音乐人江志仁的笔名。他还有一个马甲叫做山本洋太。主要从事作曲、编曲与监制工作，偶尔也会写词。他是一位全能型音乐人，是王菲、张国荣和陈奕迅极为重要的幕后班底（作曲编曲监制）。他的作品（作曲、编曲）大多具有浓烈的英伦或电子元素，擅长前卫、迷幻与暗黑风格，非常突显个人特色，而且并不过于商业化，具有极高的辨识度。他编曲的歌曲对歌手的唱功要求很高，实力较弱的歌手难以驾驭他的曲风，一不小心就会唱砸。
-> 
 
 ### 《世界真细小》重逢
 
@@ -25,7 +24,7 @@ tags: [港乐,粤语,作曲人,音乐,CY Kong,Jean Chien]
 
 这首歌是 C.Y.KONG 和 Jean Chien 一起创作的，描写了他们两人的婚姻现状，这对曾经的爱侣如今已经分开了。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ThcaPON4lLQ?si=MeLzz1J1vFt3SgMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="750" height="450" src="https://www.youtube.com/embed/ThcaPON4lLQ?si=MeLzz1J1vFt3SgMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **歌词：**
 
@@ -44,7 +43,7 @@ CYKong和Jean Chien于01年共谐连理。当年CYKong更凭歌寄意，亲自�
 
 > 我选择了杨千嬅小姐在《万紫千红演唱会》现场版中哭得稀里哗啦的名场面。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9PMOjS4DxW0?si=f-ynKGZoPTBBlxWy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="750" height="450" src="https://www.youtube.com/embed/9PMOjS4DxW0?si=f-ynKGZoPTBBlxWy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **歌词：**
 
@@ -63,7 +62,7 @@ CYKong和Jean Chien于01年共谐连理。当年CYKong更凭歌寄意，亲自�
 
 ![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130232312.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/28jn_Bdtyvo?si=eZt4BmyOD38QGE29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="750" height="450" src="https://www.youtube.com/embed/28jn_Bdtyvo?si=eZt4BmyOD38QGE29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **歌词：**
 

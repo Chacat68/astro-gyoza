@@ -19,10 +19,9 @@ tags: [粤语音乐, 香港歌手, 麦浚龙, 音乐评论, 粤语流行曲]
 ![缘灭封面](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130231457.jpg)
 
 > 你 最近还好吗? 尚爱看少女漫画吗?
-最近 近乎没露面 你有新对象吗 ?
-真想带你见见 我刚识到的她
-我想听你意见 这算是病吧？
-> 
+> 最近 近乎没露面 你有新对象吗 ?
+> 真想带你见见 我刚识到的她
+> 我想听你意见 这算是病吧？
 
 第一次爱的小心翼翼，默默记下她喜欢的东西，在分离之后，想知道她是否有了新的人，自己有了新的人，也想知道她是怎么想的，想了解她的反映。
 
@@ -35,10 +34,9 @@ tags: [粤语音乐, 香港歌手, 麦浚龙, 音乐评论, 粤语流行曲]
 ![忆起封面](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130231358.jpeg)
 
 > 十年又过去 举止仍像少女
-你跟我每夜仍聚聚 到梦里追
-赠你哈啰吉蒂那玩具
-这天早变作茉莉香水
-> 
+> 你跟我每夜仍聚聚 到梦里追
+> 赠你哈啰吉蒂那玩具
+> 这天早变作茉莉香水
 
 在十年后，对这份感情再次怀念，仍然在对心底的她无法释怀，想象中的她随着自己阅历而成长。仍然无法忘记她，在每天晚上偷偷登上社交网络，翻看起她的生活动态，往自己的世界里添加真实的素材。除此之外，也已经是路人，无法与她生活有所相交。
 
@@ -47,19 +45,18 @@ tags: [粤语音乐, 香港歌手, 麦浚龙, 音乐评论, 粤语流行曲]
 ![幻灭封面](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130231220.jpeg)
 
 > 男：若果你 未觉荒谬 被传闻谈论的疯子挽着手
-女：很感激 喜欢我十年 仍不休
-近日旧同学说我已耿耿于你心 六百周
-很可惜 这一世未能长厮守
-但事实如若告诉你或更内疚
-我爱过哈啰吉蒂吗 似乎没有
-狄更斯是漫画吗 仍然少女误会了吗
-迷恋蔽眼才给美化 但其实真懂得我吗
-那动人时光 不用常回看
-能提取温暖以后渡严寒　就关起那间房
-最动人时光 未必地老天荒
-难忘的因你太念念才难忘
-容易抱住谁十年 最难是放
-> 
+> 女：很感激 喜欢我十年 仍不休
+> 近日旧同学说我已耿耿于你心 六百周
+> 很可惜 这一世未能长厮守
+> 但事实如若告诉你或更内疚
+> 我爱过哈啰吉蒂吗 似乎没有
+> 狄更斯是漫画吗 仍然少女误会了吗
+> 迷恋蔽眼才给美化 但其实真懂得我吗
+> 那动人时光 不用常回看
+> 能提取温暖以后渡严寒　就关起那间房
+> 最动人时光 未必地老天荒
+> 难忘的因你太念念才难忘
+> 容易抱住谁十年 最难是放
 
 再次尝试接触，女方却将十年的执念打碎，并告知了男人，你对我的想象、记忆，已化为我执，是你的故事，没有我。
 
@@ -69,6 +66,6 @@ tags: [粤语音乐, 香港歌手, 麦浚龙, 音乐评论, 粤语流行曲]
 
 最后，大家欣赏这一个跨越十年的故事
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xc6vJ6T1N3o?si=nZ90xeUP3cCCST-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="750" height="450" src="https://www.youtube.com/embed/xc6vJ6T1N3o?si=nZ90xeUP3cCCST-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > 💡 感谢您的观看！欢迎分享文章，或是来信与我交流。
