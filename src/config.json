@@ -11,7 +11,7 @@
   "author": {
     "name": "CHACAT",
     "twitterId": "@chacat68",
-    "avatar": "https://blog-1259751088.cos.ap-shanghai.myqcloud.com/3DKATONG2.png?imageSlim"
+    "avatar": "https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250330115218086.png?imageSlim"
   },
   "hero": {
     "name": "CHACAT",
@@ -86,9 +86,9 @@
       "icon": "icon-hearts"
     },
     {
-        "name": "关于",
-        "link": "/about",
-        "icon": "icon-ghost"
+      "name": "关于",
+      "link": "/about",
+      "icon": "icon-ghost"
     }
   ],
   "posts": {
