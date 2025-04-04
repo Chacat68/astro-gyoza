@@ -6,7 +6,7 @@ comments: false
 
 ## 关于我
 
-![31231314](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/31231314.png)
+![31231314](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20250330115218086.png?imageSlim)
 
 Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内容爱好者，EVA粉丝，日常在阅读、创作、跑步。
 
