@@ -42,7 +42,7 @@
   "color": {
     "accent": [
       { "light": "#787D7B", "dark": "#787D7B" },
-      { "light": "#787D7B", "dark": "#787D7B" }
+      { "light": "#51A8DD", "dark": "#51A8DD" }
     ],
     "bg": {
       "primary": { "light": "#ffffff", "dark": "#1c1c1e" },
