@@ -24,7 +24,7 @@ tags: [港乐, 粤语, 作曲人, 音乐, CY Kong, Jean Chien]
 
 这首歌是 C.Y.KONG 和 Jean Chien 一起创作的，描写了他们两人的婚姻现状，这对曾经的爱侣如今已经分开了。
 
-<iframe width="750" height="450" src="https://www.youtube.com/embed/ThcaPON4lLQ?si=MeLzz1J1vFt3SgMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="750" height="420" src="https://www.youtube.com/embed/ThcaPON4lLQ?si=MeLzz1J1vFt3SgMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **歌词：**
 

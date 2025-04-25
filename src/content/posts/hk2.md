@@ -43,7 +43,7 @@ tags: [生活, 粤语歌手, 薛凯琪, 音乐，粤语]
 
 “剩下的怎样花，未有的应否还价，始终意难平吗”，这首歌是作为十年后的一个回望，相比于十年前那个对未来充满期盼的自己。十年后的自己，还满意现在吗？
 
-<iframe width="750" height="450" src="https://www.youtube.com/embed/P0m_fGuDoWo?si=jEai95BdPd7PzVc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="750" height="420" src="https://www.youtube.com/embed/P0m_fGuDoWo?si=jEai95BdPd7PzVc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 《最后最后》
 

@@ -16,7 +16,7 @@ tags: [粤语音乐, 陈慧娴, 梅艳芳, 港乐经典, 千千阙歌, 夕阳之
 
 透过这两首歌，我们得以窥见港乐最动人的特质——用最平实的词句道尽人生况味。林振强的词作如同时光的刻刀，"来日纵使千千阙歌"中的永恒期盼，"斜阳无限 无奈只一息间灿烂"里的生命顿悟，都在简单旋律中迸发出震撼人心的力量。在这个快速变迁的时代，这些经典旋律依然能唤起我们最真挚的情感共鸣，提醒我们：无论世事如何变迁，那些关于离别、成长与坚持的人生课题，永远值得被歌唱，被铭记。
 
-<iframe width="750" height="450" src="https://www.youtube.com/embed/a1DM7auyFmc?si=L6o3ekpEAyNtj66d&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="750" height="420" src="https://www.youtube.com/embed/a1DM7auyFmc?si=L6o3ekpEAyNtj66d&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > 😀 来自陈慧娴在《声生不息-大湾区》里演唱《千千阙歌》和《夕阳之歌》
 
